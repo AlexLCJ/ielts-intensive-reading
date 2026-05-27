@@ -1,6 +1,6 @@
 # IELTS Intensive Reading Skill
 
-> 雅思阅读精读讲义生成器 — Claude Cowork Skill
+> 雅思阅读精读讲义生成 — Claude Cowork Skill
 
 An intelligent skill for Claude that automatically generates comprehensive, beautifully formatted IELTS intensive reading study guides (精读讲义) from any IELTS reading passage. One-click generation of professional Word documents with vocabulary bolding, paragraph analysis, synonym collections, and practice exercises.
 
