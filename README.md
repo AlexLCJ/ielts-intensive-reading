@@ -1,4 +1,4 @@
-# IELTS Intensive Reading Skill
+# IELTS Intensive Reading Skill 雅思精读
 
 > 雅思阅读精读讲义生成 — Claude Cowork Skill
 
